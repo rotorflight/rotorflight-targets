@@ -1,0 +1,6 @@
+# temp files
+*~
+
+# patch files
+*.orig
+*.rej
