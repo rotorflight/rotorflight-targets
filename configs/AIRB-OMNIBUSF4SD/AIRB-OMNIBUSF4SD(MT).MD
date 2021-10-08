@@ -9,6 +9,8 @@
 |PWM3|Servo 3|S3|
 
 # Examples
+This custom default can be used on many flight controllers sharing the OMNIBUSF4SD default. 
+
 ## TeenyF4
 The Teeny F4 Pro is an OMNIBUSF4SD based FC that runs on 1S or 2S. It is a 16x16mm mounting pattern.
 
