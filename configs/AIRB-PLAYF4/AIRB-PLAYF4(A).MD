@@ -14,4 +14,4 @@ This flight controller is based on the AIRB-NOX custom default.
 ## PlayF4
 The Play F4 is an F411 based FC that runs on 1S or 2S. It is a whoop mounting pattern.
 
-![PlayF4 wiring](https://github.com/rotorflight/rotorflight/blob/master/wiki/Boards/AIRB-PLAYF4/PLAYF4(A)-wiring.png)
+![PlayF4 wiring](https://github.com/rotorflight/rotorflight/blob/master/wiki/Boards/PlayF4/PLAYF4(A)-wiring.png)
