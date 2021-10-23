@@ -14,4 +14,4 @@ This flight controller is based on the FOXEERF722V2 custom default.
 ## Foxeer F722 V2
 The Foxeer F722 V2 an F722 based FC that runs on 2S to 6S. It is a 20x20mm mounting pattern.
 
-![Foxeer F722 V2 Motorised](https://github.com/rotorflight/rotorflight/blob/master/wiki/Boards/FoxeerF722V2/FOXEERF722V2(MT).png)
+![Foxeer F722 V2 Motorised](https://github.com/rotorflight/rotorflight/blob/master/wiki/Boards/FoxeerF722V2/FOXEERF722V2(ST).png)
