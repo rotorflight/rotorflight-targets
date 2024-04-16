@@ -1,6 +1,6 @@
 # Rotorflight Target Configuration repository
 
-This repository contains target (board) configuration files for the Unified Firmware.
+This repository contains the target configuration files (custom defaults) for the Unified Firmware.
 
-Please see [Rotorflight Wiki](https://github.com/rotorflight/rotorflight/wiki) for more information.
+The Firmware Flasher in the Configurator is loading the targets (boards) directly from this repository.
 
