@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SRC=${1:betaflight-targets}/configs/default
+SRC=${1:-betaflight}/configs/default
 
 
 echo "Comparing files..."
@@ -14,7 +14,7 @@ do
 
 	if [ -f ${BETA} ]
 	then
-		diff --color=always -u ${BETA} ${FILE}
+		diff --color=always -u -w ${BETA} ${FILE}
 	else
 		echo "Target ${TARGET} not in BF"
 	fi
@@ -30,7 +30,7 @@ do
 
 	RTFL=configs/${CONFIG}
 
-	if [ ! -f ${RTFL} ]
+	if [ ! -f "${RTFL}" ]
 	then
 		echo "New ${TARGET} in BF"
 	fi
